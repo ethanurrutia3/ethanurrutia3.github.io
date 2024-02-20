@@ -4,3 +4,8 @@ body {
   h1 {
     color: blue;
   }
+
+  .testclass {
+    background-color: yellow;
+    font-weight: bold;
+  }
