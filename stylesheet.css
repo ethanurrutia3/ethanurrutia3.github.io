@@ -1,3 +1,8 @@
+header{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 75px;
+  color: rgb(118, 161, 165)
+}
 body {
     background-color: powderblue;
   }
@@ -5,7 +10,30 @@ body {
     color: blue;
   }
 
-  .paragraph {
-    color: yellow;
-    font-weight: bold;
+  .funfact {
+    color: green;
+    font-style: italic;
+    border: 20px;
+    background-color: aquamarine;
+    border: 3px solid blue;
+    border-radius: 20px;
+    padding: auto;
   }
+  .box{
+    width: 500px;
+    height: 205px;
+  }
+#funfacts1{
+  border: 5px dotted red;
+  background-color: bisque;
+}
+#img1{
+  display: flex; /* Use flexbox layout */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+ul{
+  
+}
+  
+ 
