@@ -26,4 +26,16 @@ body {
 #funfacts1{
   border: 5px dotted red;
   background-color: bisque;
+  margin: auto;
+}
+#img1{
+  height: 300px;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#funfactIntro{
+  margin: auto;
+  text-align: center;
 }
