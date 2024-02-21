@@ -17,17 +17,25 @@ body {
     background-color: aquamarine;
     border: 3px solid blue;
     border-radius: 20px;
-    padding: auto;
+    margin-bottom: 50px;
+  
   }
   .box{
-    width: 500px;
-    height: 205px;
-    margin:auto;
+    width: 550px;
+    height: 180px;
+    border: 5px dotted red;
+    background-color: bisque;
+    align-items: left;
+    margin: auto;
+    
+    
+    
   }
-#funfacts1{
-  border: 5px dotted red;
-  background-color: bisque;
-  margin: auto;
+#funfacts1 li {
+
+  margin-bottom: 10px; /* Add space between each list item */
+  padding: 10px; /* Add padding within each list item */
+  
 }
 #img1{
   height: 300px;
